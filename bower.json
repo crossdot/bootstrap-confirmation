@@ -1,0 +1,14 @@
+{
+  "name": "bootstrap3-confirmation",
+  "main": "bootstrap-confirmation.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/crossdot/bootstrap-confirmation",
+  "authors": [
+    "Vitaliy <vpavlikov@wooppay.com>"
+  ],
+  "description": "Confirmation plugin compatible with Twitter Bootstrap 3 extending Popover",
+  "keywords": [
+    "bootstrap"
+  ],
+  "license": "MIT"
+}
